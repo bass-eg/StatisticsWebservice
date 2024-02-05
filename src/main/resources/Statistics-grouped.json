@@ -327,28 +327,7 @@
       "percentageTradesBuy" : 3.74,
       "percentageTradesSell" : 1.42,
       "date" : "2016-05-08"
-    }, {
-      "buyVolume" : 188039.0,
-      "buyValue" : 2664389.25,
-      "sellVolume" : 49541.0,
-      "sellValue" : 713390.4,
-      "totalBuyVolume" : 188039.0,
-      "totalBuyValue" : 2664389.25,
-      "totalSellVolume" : 49541.0,
-      "totalSellValue" : 713390.4,
-      "buyVolumePercentage" : 100.0,
-      "buyValuePercentage" : 100.0,
-      "sellVolumePercentage" : 100.0,
-      "sellValuePercentage" : 100.0,
-      "buyAvgPriceByNin" : 14.17,
-      "sellAvgPriceByNin" : 14.4,
-      "buyAvgPriceBysc" : 14.17,
-      "sellAvgPriceBySc" : 14.4,
-      "sector" : "Materials",
-      "percentageTradesBuy" : 3.74,
-      "percentageTradesSell" : 1.42,
-      "date" : "2016-05-08"
-    } ]
+    }]
   }, {
     "securityCode" : "4160",
     "securityName" : "ثمار",
